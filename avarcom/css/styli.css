@@ -315,6 +315,7 @@ body {
 /** #region main-section__link */
 .main-section__link {
 	justify-self: center;
+	align-self: start;
 	line-height: 130%;
 	font-size: 0.875rem;
 	font-weight: 700;
